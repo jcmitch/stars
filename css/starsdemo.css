@@ -1,0 +1,30 @@
+body {
+    color: #fff;
+    font-family: Jura;
+}
+.wrapper {
+    position: relative;
+}
+h1 {
+    text-align: center;
+}
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+li {
+    display: inline-block;
+}
+.label {
+    width: 120px;
+    display: inline-block;
+    text-align: right;
+    margin: 5px 5px 0 0;
+}
+input {
+    border-radius: 5px;
+    display: inline-block;
+    width: 50px;
+}
